@@ -9,6 +9,8 @@ skier_images = ["skier_down.png", "skier_right1.png", "skier_right2.png",
                  "skier_left2.png", "skier_left1.png"]
 
 
+# Dit is een mooi commentaar..
+
 # class for the Skier sprite
 class SkierClass(pygame.sprite.Sprite):
     def __init__(self):
